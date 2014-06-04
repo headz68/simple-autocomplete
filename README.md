@@ -1,2 +1,1 @@
-simple-autocomplete
-===================
+Very simple autocomplete module
