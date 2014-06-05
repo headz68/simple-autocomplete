@@ -1,5 +1,5 @@
 /**
- * Main app function
+ * Main app module
  */
 (function ($) {
   var APP = {};
